@@ -1,2 +1,2 @@
 # Topic-Modelling
-Topic modelling is a concept of Natural Language Processing. Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents. Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic. 
+Topic modelling is a concept of Natural Language Processing. Topic modeling is a type of statistical modeling for discovering the abstract “topics” that occur in a collection of documents. Latent Dirichlet Allocation (LDA) is an example of topic model and is used to classify text in a document to a particular topic. Topic Modelling of text documents to identify the top topic in a whole document
